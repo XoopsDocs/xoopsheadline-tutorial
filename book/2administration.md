@@ -21,7 +21,7 @@ There are three Tabs in the Administration of the XOOPS Partners module:
 There are no configuration options available for the module per se; rather you add, configure and delete individual news feeds through the ‘List headlines’ link in the administrative menu. This opens the form shown below. When adding a new feed the options are:
 
 |Option|	Function|
-|--|--|
+|---|---|
 |**Add Headlines**	||
 |Site name:|	The title of the website providing the feed|
 |URL:|	The URL of the website providing the fee|
