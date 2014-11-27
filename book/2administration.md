@@ -15,7 +15,7 @@ There are three Tabs in the Administration of the XOOPS Partners module:
 -	List Headline
 -	Help
 
-![image001.png](assets/image001.png)   
+![img_5.jpg](../assets/img_5.jpg)   
 *Figure 4 The “List Headlines” Tab*
 
 There are no configuration options available for the module per se; rather you add, configure and delete individual news feeds through the ‘List headlines’ link in the administrative menu. This opens the form shown below. When adding a new feed the options are:
@@ -41,10 +41,10 @@ There are no configuration options available for the module per se; rather you a
 
 Once a feed has been entered it will be included in the summary feed list, where you can easily edit its display modes, order, cache time, and encoding. Select the ‘Edit’ link to configure other properties.
  
- ![image001.png](assets/image001.png)  
+ ![img_6.jpg](../assets/img_6.jpg)   
 *Figure 5 The “About the Module” Tab*
 
- ![image001.png](assets/image001.png)  
+![img_7.jpg](../assets/img_7.jpg)   
 *Figure 6 The “Help” Tab*
 
  
