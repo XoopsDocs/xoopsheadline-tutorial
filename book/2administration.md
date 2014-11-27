@@ -1,11 +1,11 @@
 # 2.0 Administration Menu
 
 There are four options on top:
-
+<table>
 | Option | Action |
 | --     | --     |
 | Preferences | Here you can configure your preferences for the module |
-
+</table>
 
 | Option | Action |
 | -- | -- |
