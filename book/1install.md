@@ -11,3 +11,16 @@ To uninstall the module, just click on the red arrow:
 
 ![img_4.jpg](../assets/img_4.jpg)   
 *Figure 3 The Module Administration and un-installation*
+
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
+
+
+|dog | bird | cat|
+|----|------|----|
+|foo | foo  | foo|
+|bar | bar  | bar|
+|baz | baz  | baz|
