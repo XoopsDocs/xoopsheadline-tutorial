@@ -36,7 +36,7 @@ Now the “Block Edit” screen will open up:
 These are the options that we need to change:
 
 |Option|	Action|
-|--|--|
+|---|---|
 |Block Type|	This to select the location where you want the block to be visible. We have already selected the Center Block – Center|
 |Weight|	If you have several block and want to control their order, you should set the Weight here, and the blocks will be sorted by their assigned weight. “0” is the highest, and the higher the number, the lower the position of the block5 |
 |Visible|	This has to be set to “Yes” if you want to make it visible|
