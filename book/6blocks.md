@@ -20,10 +20,10 @@ When you click on the top menu “Blocks” you’ll be redirected to the Blocks
  
 Headlines Module provides you with only one block. First, let’s move the block to the Right position, and set the block to be visible by clicking on the “visibility” icon, which can have two states:
 
-![img_13.jpg](../assets/img_13.jpg)  
-
-  Visible (on-line)
-    invisible (off-line)
+| | |
+|--|--|
+|![img_13.jpg](../assets/img_13.jpg) |<br>- Visible (on-line)<br><br><br>- invisible (off-line)<br><br>|
+- 
 
 Now that we have it visible, let’s edit it by clicking on the “Edit” icon: ![img_14.jpg](../assets/img_14.jpg)  
 
