@@ -3,7 +3,7 @@
 The Headlines block simply displays links to the content of the feeds you have listed. 
  
 
-![image001.png](assets/image001.png)  
+![img_10.jpg](../assets/img_10.jpg)  
 *Figure 9 Headlines seen live on the your Website*
 
 If you set “Display in Block” to “Yes” in the Headlines preferences, you can now see them here. 
@@ -12,26 +12,26 @@ In this case, the block is linking to two separate websites that provide article
 
 This is done by using blocks. To manage blocks,  click on the “Blocks” link in the module’s Administration:
  
-![image001.png](assets/image001.png)  
+![img_11.jpg](../assets/img_11.jpg)  
 
 When you click on the top menu “Blocks” you’ll be redirected to the Blocks screen, with the Headlines blocks already filtered out for you:    
  
-![image001.png](assets/image001.png)   
+![img_12.jpg](../assets/img_12.jpg)  
  
 Headlines Module provides you with only one block. First, let’s move the block to the Right position, and set the block to be visible by clicking on the “visibility” icon, which can have two states:
 
-![image001.png](assets/image001.png)  
+![img_13.jpg](../assets/img_13.jpg)  
 
   Visible (on-line)
     invisible (off-line)
 
-Now that we have it visible, let’s edit it by clicking on the “Edit” icon: 
+Now that we have it visible, let’s edit it by clicking on the “Edit” icon: ![img_14.jpg](../assets/img_14.jpg)  
 
-![image001.png](assets/image001.png)  
+![img_15.jpg](../assets/img_15.jpg)  
  
 Now the “Block Edit” screen will open up:
 
-![image001.png](assets/image001.png)  
+![img_16.jpg](../assets/img_16.jpg)   
   
 These are the options that we need to change:
 
@@ -49,3 +49,4 @@ These are the options that we need to change:
 Most of the time you can leave it as it is.
 
 Once the block is set correctly and made visible, the Headlines can be seen on the User side:
+![img_14.jpg](../assets/img_14.jpg)  
