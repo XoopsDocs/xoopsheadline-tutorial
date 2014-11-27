@@ -1,1 +1,6 @@
 # 3.0 Preferences
+
+In the Preferences, you can set the most important options for the module, such as the elements of the form that will be visible to the user. The Preference options are pretty well described:
+ 
+![image001.png](assets/image001.png)  
+Figure 7 The Preferences options
