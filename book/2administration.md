@@ -5,13 +5,6 @@ There are four options on top:
 |Option | Action|
 | --- | ---   |
 |Preferences | Here you can configure your preferences for the module|
-
-
-| Option | Action |
-|--|--|
-| Preferences | Here you can configure your preferences for the module |
-
-
 |Update|Click here if you’ve made some changes to the module, uploaded new files, etc. – this will recompile the module and update all entries in the database|
 |Blocks|When you click here, it will redirect you to the Blocks section of XOOPS, and select the blocks related to your module|
 |Go to module|If the module is visible on the user side, this will take you there|
