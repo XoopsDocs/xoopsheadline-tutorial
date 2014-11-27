@@ -2,7 +2,7 @@
 
 There are four options on top:
 
- Option | Action
+ |Option | Action|
  --     | --    
  Preferences | Here you can configure your preferences for the module 
 
