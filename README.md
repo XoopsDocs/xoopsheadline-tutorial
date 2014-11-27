@@ -28,5 +28,5 @@ Note that the XOOPS core system generates its own built in RSS feed, accessible 
 
 
  
-![image001.png](assets/image001.png)  
+![img_2.jpg](assets/img_2.jpg)  
 *Figure 1 Main view of the XOOPS Headlines Module (Admin side)*
