@@ -1,6 +1,6 @@
 # Introduction
 
-![logoXoops.jpg](.gitbook/assets/logoxoops%20%281%29.jpg)
+![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
 
 ## Module XoopsHeadline
 
@@ -42,7 +42,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [The User Side](the-user-side.md)
 * [Blocks](blocks.md)
 * [Templates](templates.md)
-* [Miscellaneous](https://github.com/XoopsDocs/xoopsheadline-tutorial/tree/358d5112f0997bbdf88a70c73cbd091d25ade2bd/en/book/8other.md) 
+* [Miscellaneous](https://github.com/xoops/xoopsheadline-tutorial/tree/358d5112f0997bbdf88a70c73cbd091d25ade2bd/en/book/8other.md) 
 * [Module Credits](module-credits.md)
 * [About XOOPS CMS](about-xoops-cms.md)
 

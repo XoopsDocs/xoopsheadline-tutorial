@@ -25,7 +25,7 @@ Headlines Module provides you with only one block. First, let’s move the block
 | --- | --- |
 | ![img\_13.jpg](.gitbook/assets/img_13.jpg) |  - Visible \(on-line\)   - invisible \(off-line\)   |
 
-* Now that we have it visible, let’s edit it by clicking on the “Edit” icon: ![img\_14.jpg](.gitbook/assets/img_14%20%281%29.jpg)
+* Now that we have it visible, let’s edit it by clicking on the “Edit” icon: ![img\_14.jpg](.gitbook/assets/img_14.jpg)
 
 ![img\_15.jpg](.gitbook/assets/img_15.jpg)
 
@@ -48,5 +48,5 @@ These are the options that we need to change:
 
 Most of the time you can leave it as it is.
 
-Once the block is set correctly and made visible, the Headlines can be seen on the User side: ![img\_14.jpg](.gitbook/assets/img_14.jpg)
+Once the block is set correctly and made visible, the Headlines can be seen on the User side: ![img\_14.jpg](.gitbook/assets/img_14%20%281%29.jpg)
 
