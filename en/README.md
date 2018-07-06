@@ -10,7 +10,7 @@
     
 ## User Manual
   
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
   
 ## Module Purpose 
  
@@ -22,7 +22,7 @@ Note that the XOOPS core system generates its own built in RSS feed, accessible 
 ![img_2.jpg](assets/img_2.jpg)  
 *Figure 1 Main view of the XOOPS Headlines Module (Admin side)*
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png)  
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png)  
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/xoopsheadline))** 
 
