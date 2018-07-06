@@ -1,29 +1,29 @@
 # Introduction
 
 ![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
-
+  
 ## Module XoopsHeadline
-
+      
 #### for XOOPS 2.5.7
-
+                
 ![logoModule.png](.gitbook/assets/logomodule.png)
-
+    
 ### User Manual
-
-© 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
-
+  
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+  
 ### Module Purpose
-
+ 
 “XOOPS Headlines” module allows you to display RSS/XML news feeds from other websites. A news feed is a file summarizing elements of a site’s content, a service commonly provided by dynamic websites. Linking to the feed allows you to display ‘headlines’ and other content from the remote site on your own that will update automatically as the remote site changes. This module is typically used as a news aggregator or syndication tool.
 
 Note that the XOOPS core system generates its own built in RSS feed, accessible from [http://www.yourdomain.com/backend.php](http://www.yourdomain.com/backend.php). Some XOOPS modules generate additional module-specific feeds.
 
-  
+ 
 _Figure 1 Main view of the XOOPS Headlines Module \(Admin side\)_
 
-![img\_2.jpg](.gitbook/assets/img_2.jpg)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png)  
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/xoopsheadline)**\)**
 
@@ -52,4 +52,3 @@ Editing the book can be done either by updating the markdown files with a text e
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
-
